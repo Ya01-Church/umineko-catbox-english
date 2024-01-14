@@ -1,3 +1,15 @@
+This fork is near identical to v82.7.2 of the rebirth branch of this project by [&Olga](https://github.com/andOlga). The only difference is that the track names have been changed in the popups in-game, to the much more widely known track names from the Witch Hunt translation, including the Japanese names themselves if applicable.
+
+This does NOT change the track names in the Music Box because that requires editing an image file.
+This does NOT change the tracks themselves, so the Switch exclusive tracks are still the Switch exclusive tracks.
+This does NOT change anything else to resemble the Witch Hunt translation.
+
+I just made this for my personal use, if anyone wants to use it then go for it I guess. I have no plans to update this because unless someone figures out a way to replace the Switch exclusive tracks with their original counterparts, or someone has typos, bugs, errors or inconsistencies to edit, I have no interest in further changing this patch.
+
+Below is the original README as written by &Olga. This is up to date as of the 14th of January, 2024.
+
+---
+
 This project is dedicated, in its entirety, to my beloved Tara.
 
 Reading Umineko together, with this patch, while it was still being worked on,
